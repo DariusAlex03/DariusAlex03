@@ -23,13 +23,17 @@
 <a href="https://www.fiverr.com/dariusbuzura">
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
 </a>
+  
+<a href="[https://www.fiverr.com/dariusbuzura](https://www.linkedin.com/in/dariusbuzura/)">
+    ![](https://skillicons.dev/icons?i=linkedin&theme=dark)
+</a>
 
 
 ## Languages and tools used:
 
 ![](https://skillicons.dev/icons?i=html,css,js,php,java&theme=dark)  
 ![](https://skillicons.dev/icons?i=spring,bootstrap,androidstudio,py&theme=dark)
-![](https://skillicons.dev/icons?i=mysql,bash,intellij,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=mysql,bash,idea,vscode&theme=dark)
 
 </div>
 
