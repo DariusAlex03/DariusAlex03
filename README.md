@@ -27,13 +27,8 @@
 
 ## Languages and tools used:
 
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,react,flutter,java&theme=dark)  
+![](https://skillicons.dev/icons?i=html,css,js,java&theme=dark)  
 ![](https://skillicons.dev/icons?i=androidstudio,py&theme=dark)<img src="https://user-images.githubusercontent.com/91475935/168442353-995d91ee-cc1c-4b99-9a02-5057721a2bd2.png" height="48px" />![](https://skillicons.dev/icons?i=pytorch,mysql,bash,vscode&theme=dark)
-
-
-## My Github statistics:
-
-<img align="" height="115.5px" src="https://github-readme-stats.vercel.app/api?username=maximedrn&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /> <img align="" height="115.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximedrn&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
 </div>
 
