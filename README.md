@@ -5,9 +5,9 @@
 <!-- <img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> -->
 
 
-## Develeppeur WEB
+## Develeppeur WEB et Logiciel
 
-🎓 Je suis actuellement ne études supèrieures en informatique.  
+🎓 Je suis actuellement en études supèrieures en informatique.  
 🚀 J'apprend en ce moment :  **Framework Spring(Java)**, **Developpement Android** et **la virtualisation de machines**.  
 📫 Vous pouvez me contacter sur :
 
