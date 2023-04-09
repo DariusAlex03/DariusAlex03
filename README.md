@@ -27,9 +27,9 @@
 
 ## Languages and tools used:
 
-![](https://skillicons.dev/icons?i=html,css,js,php,spring,java&theme=dark)  
-![](https://skillicons.dev/icons?i=androidstudio,py&theme=dark)
-![](https://skillicons.dev/icons?i=mysql,bash,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,php,java&theme=dark)  
+![](https://skillicons.dev/icons?i=spring,bootstrap,androidstudio,py&theme=dark)
+![](https://skillicons.dev/icons?i=mysql,bash,intellij,vscode&theme=dark)
 
 </div>
 
