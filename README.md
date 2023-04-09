@@ -17,7 +17,7 @@
 </a>
   
 <a href="mailto:dariusbuzura@gmail.com">
-    <img src="gmail-svgrepo-com.svg" height="40px" />
+    <img src="icons/gmail-svgrepo-com.svg" height="40px" />
 </a>
     
 <a href="https://www.fiverr.com/dariusbuzura">
