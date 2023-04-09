@@ -13,7 +13,7 @@
 
   
 <a href="https://twitter.com/033Darius">
-    <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px" />
+    <img src="icons/twitter-color-svgrepo-com.svg" height="40px" />
 </a>
   
 <a href="mailto:dariusbuzura@gmail.com">
@@ -24,7 +24,11 @@
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
 </a>
   
-## Languages and tools used:
+<a href="https://www.linkedin.com/in/dariusbuzura/">
+    <img src="icons/linkedin-color-svgrepo-com.svg" height="40px" />
+</a>
+  
+## Langages et outils que j'utilise:
 
 ![](https://skillicons.dev/icons?i=html,css,js,php,c,java&theme=dark)  
 ![](https://skillicons.dev/icons?i=spring,bootstrap,androidstudio,raspberrypi,py&theme=dark)
