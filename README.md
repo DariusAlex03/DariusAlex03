@@ -24,6 +24,10 @@
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
 </a>
   
+  <a href="https://www.fiverr.com/dariusbuzura">
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" height="40px" />
+</a>
+  
 
 ## Languages and tools used:
 
