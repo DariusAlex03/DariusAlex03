@@ -2,8 +2,6 @@
 
 # Hi! 👋 <br /> Je suis Darius 
 
-<img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> 
-
 
 ## Develeppeur WEB et Logiciel
 
