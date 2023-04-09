@@ -24,6 +24,9 @@
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
 </a>
   
+  <a href="https://www.fiverr.com/dariusbuzura">
+    <img src="linkedin-color-svgrepo-com.svg" height="40px" />
+</a>
   
 
 ## Languages and tools used:
