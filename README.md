@@ -32,5 +32,10 @@
 ![](https://skillicons.dev/icons?i=spring,bootstrap,androidstudio,raspberrypi,py&theme=dark)
 ![](https://skillicons.dev/icons?i=mysql,postgres,bash,idea,vscode&theme=dark)
 
+## Systèmes d'exploitation:
+<img src="icons/ubuntu-svgrepo-com.svg" height="40px" />
+<img src="icons/windows-applications-svgrepo-com.svg" height="40px" />
+
+
 </div>
 
